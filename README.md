@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, my name is Piotr and I am a full-stack developer.
 
 <!--
 **PiotrekCodes/PiotrekCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
