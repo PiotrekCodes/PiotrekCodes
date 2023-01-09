@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Piotr</h1>
 <h3 align="center">A passionate full-stack developer from Bournemouth, UK</h3>
 
-- 🌱 I’m currently learning **GO and Vue.js**
+- 🌱 I’m currently learning **Node.js and Vue.js**
 
 - 👨‍💻 Projects that I worked on as a part of the team https://github.com/DariBerrie/loopyex, https://github.com/DariBerrie/ouicity
 
