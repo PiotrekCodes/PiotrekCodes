@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Piotr</h1>
 <h3 align="center">A passionate full-stack developer from Bournemouth, UK</h3>
 
-- 🌱 I’m currently learning **Deno and Rust**
+- 🌱 I’m currently learning **Next.js and Rust**
 
 - 👨‍💻 Projects that I worked on as a part of the team https://github.com/DariBerrie/loopyex, https://github.com/DariBerrie/ouicity
 
