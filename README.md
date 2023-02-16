@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Next.js and Rust<br>👨‍💻 Projects that I worked on as a part of the team https://github.com/DariBerrie/loopyex, https://github.com/DariBerrie/ouicity<br>💬 Ask me about JavaScript, Ruby on Rails, football and video games :)<br>📫 How to reach me, piotrek.webdev@gmail.com
+🌱 I’m currently learning Next.js and Rust<br>👨‍💻 Projects that I worked on as a part of the team https://github.com/DariBerrie/loopyex, https://github.com/DariBerrie/ouicity<br>💬 Ask me about JavaScript, Ruby on Rails, football and video games :)<br>📫 How to reach me, hello[at]piotrek.codes<br>🖥 My portfolio website: https://www.piotrek.codes
 
 
 ## 🌐 Socials:
